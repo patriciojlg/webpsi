@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Fixed Circular Navigation Menu\n"
+"POT-Creation-Date: 2014-09-09 12:30+1200\n"
+"PO-Revision-Date: 2014-09-09 12:31+1200\n"
+"Last-Translator: Enrique Crespo Molera <contact@e-crespo.com>\n"
+"Language-Team: e-crespo <contact@e-crespo.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../admin-page-class.php:398
+msgid "Allowed Files"
+msgstr ""
+
+#: ../admin-page-class.php:641 ../admin-page-class.php:643
+msgid "Insert into Post"
+msgstr ""
+
+#: ../admin-page-class.php:641
+msgid "Use this File"
+msgstr ""
+
+#: ../admin-page-class.php:643
+msgid "Use this Image"
+msgstr ""
+
+#: ../admin-page-class.php:675 ../admin-page-class.php:774
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin-page-class.php:688
+msgid "Settings saved."
+msgstr ""
+
+#: ../admin-page-class.php:1152
+msgid "Delete this image"
+msgstr ""
+
+#: ../admin-page-class.php:1152 ../admin-page-class.php:1994
+msgid "Delete"
+msgstr ""
+
+#: ../admin-page-class.php:1247
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: ../admin-page-class.php:1457 ../admin-page-class.php:1515
+msgid "Remove"
+msgstr ""
+
+#: ../admin-page-class.php:1470
+msgid "Add new navigation element"
+msgstr ""
+
+#: ../admin-page-class.php:1714
+msgid "Select Files"
+msgstr ""
+
+#: ../admin-page-class.php:1865
+msgid "Select Icon"
+msgstr ""
+
+#: ../admin-page-class.php:1990
+msgid "Uploaded files"
+msgstr ""
+
+#: ../admin-page-class.php:2001
+msgid "Upload new files"
+msgstr ""
+
+#: ../admin-page-class.php:2007
+msgid "Add more files"
+msgstr ""
+
+#: ../admin-page-class.php:2027 ../admin-page-class.php:2060
+msgid "Delete Image"
+msgstr ""
+
+#: ../admin-page-class.php:2032 ../admin-page-class.php:2065
+msgid "Upload Image"
+msgstr ""
+
+#: ../admin-page-class.php:2141 ../admin-page-class.php:2167
+msgid "Select a color"
+msgstr ""
+
+#: ../admin-page-class.php:3527
+msgid "Export"
+msgstr ""
+
+#: ../admin-page-class.php:3528
+msgid ""
+"To export saved settings click the Export button bellow and you will get the "
+"export Code in the box bellow, which you can later use to import."
+msgstr ""
+
+#: ../admin-page-class.php:3530
+msgid "Export Code"
+msgstr ""
+
+#: ../admin-page-class.php:3532
+msgid "Get Export"
+msgstr ""
+
+#: ../admin-page-class.php:3537 ../admin-page-class.php:3542
+msgid "Import"
+msgstr ""
+
+#: ../admin-page-class.php:3538
+msgid ""
+"To Import saved settings paste the Export output in to the Import Code box "
+"bellow and click Import."
+msgstr ""
+
+#: ../admin-page-class.php:3540
+msgid "Import Code"
+msgstr ""
+
+#: ../admin-page-class.php:3567
+msgid "error in ajax request! (1)"
+msgstr ""
+
+#: ../admin-page-class.php:3577
+msgid "error in ajax request! (2)"
+msgstr ""
+
+#: ../admin-page-class.php:3598
+msgid "error in ajax request! (3)"
+msgstr ""
+
+#: ../admin-page-class.php:3610
+msgid "Setting imported, make sure you "
+msgstr ""
+
+#: ../admin-page-class.php:3610
+msgid "Refresh this page"
+msgstr ""
+
+#: ../admin-page-class.php:3612
+msgid "Could not import settings! (4)"
+msgstr ""
+
+#: ../admin-page-class.php:3633
+msgid "You do not have sufficient permissions to edit templates for this site."
+msgstr ""
+
+#: ../admin-page-class.php:3636
+msgid "Error Downloading file."
+msgstr ""
+
+#: ../admin-page-class.php:3658 ../admin-page-class.php:3661
+msgid "Download Export"
+msgstr ""
+
+#: ../admin-page-class.php:3727
+msgid "Not Valid "
+msgstr ""
+
+#: ../admin-page-class.php:3745
+msgid "Errors in saving changes"
+msgstr ""
+
+#: ../admin-page-class.php:3770
+msgid "Unkown Error"
+msgstr ""
+
+#: ../circular-nav.php:75
+msgid "Fixed Circular Navigation Menu Settings"
+msgstr ""
+
+#: ../circular-nav.php:76
+msgid "Circular Nav"
+msgstr ""
+
+#: ../circular-nav.php:97
+msgid "Position"
+msgstr ""
+
+#: ../circular-nav.php:98
+msgid "Color schemes"
+msgstr ""
+
+#: ../circular-nav.php:99
+msgid "Menu-button"
+msgstr ""
+
+#: ../circular-nav.php:100
+msgid "Font and icon colors"
+msgstr ""
+
+#: ../circular-nav.php:101
+msgid "Font and icon/image sizes"
+msgstr ""
+
+#: ../circular-nav.php:102
+msgid "Navigation Elements"
+msgstr ""
+
+#: ../circular-nav.php:103
+msgid "Display"
+msgstr ""
+
+#: ../circular-nav.php:104
+msgid "Go Pro version"
+msgstr ""
+
+#: ../circular-nav.php:113
+msgid "Position settings"
+msgstr ""
+
+#: ../circular-nav.php:114
+msgid "Choose where you want the circular menu to be fixed"
+msgstr ""
+
+#: ../circular-nav.php:120
+msgid "Bottom"
+msgstr ""
+
+#: ../circular-nav.php:124
+msgid "Fixed at:"
+msgstr ""
+
+#: ../circular-nav.php:128 ../circular-nav.php:223
+msgid ""
+"only available in pro version:<br/><br/>\n"
+"            <img src=\""
+msgstr ""
+
+#: ../circular-nav.php:144
+msgid "Color settings"
+msgstr ""
+
+#: ../circular-nav.php:145
+msgid ""
+"Configure color appearance. Choose from proposed color patterns or build "
+"your own at the bottom"
+msgstr ""
+
+#: ../circular-nav.php:151
+msgid "Grey-greenish"
+msgstr ""
+
+#: ../circular-nav.php:154
+msgid "Grey"
+msgstr ""
+
+#: ../circular-nav.php:157
+msgid "Blue"
+msgstr ""
+
+#: ../circular-nav.php:160
+msgid "Aqua"
+msgstr ""
+
+#: ../circular-nav.php:163
+msgid "Green"
+msgstr ""
+
+#: ../circular-nav.php:166
+msgid "Yellow"
+msgstr ""
+
+#: ../circular-nav.php:169
+msgid "Orange"
+msgstr ""
+
+#: ../circular-nav.php:172
+msgid "Red"
+msgstr ""
+
+#: ../circular-nav.php:175
+msgid "Violet"
+msgstr ""
+
+#: ../circular-nav.php:178
+msgid "Brown"
+msgstr ""
+
+#: ../circular-nav.php:181
+msgid "Black"
+msgstr ""
+
+#: ../circular-nav.php:184
+msgid "Transparent"
+msgstr ""
+
+#: ../circular-nav.php:187
+msgid "Alternate (odd-even) color scheme for navigation elements"
+msgstr ""
+
+#: ../circular-nav.php:188
+msgid ""
+"<small>Pick a predefined color scheme or build your own (see below)</small>"
+msgstr ""
+
+#: ../circular-nav.php:193
+msgid ""
+"<strong>Build your own color scheme is only available in pro version:</"
+"strong><br/><br/>\n"
+"            <img src=\""
+msgstr ""
+
+#: ../circular-nav.php:208
+msgid "Menu button settings"
+msgstr ""
+
+#: ../circular-nav.php:209
+msgid "Configure contents for the menu button"
+msgstr ""
+
+#: ../circular-nav.php:215
+msgid "Only text"
+msgstr ""
+
+#: ../circular-nav.php:218
+msgid "Built-in proposed styles for the content inside the menu button"
+msgstr ""
+
+#: ../circular-nav.php:219
+msgid "<small>Pick one or choose custom icons or images (see below)</small>"
+msgstr ""
+
+#: ../circular-nav.php:228
+msgid ""
+"<strong><u>Custom text when menu is opened or closed is only available in "
+"pro version.</u></strong>"
+msgstr ""
+
+#: ../circular-nav.php:230
+msgid ""
+"<strong><u>Custom icons or images when menu is opened or closed are only "
+"available in pro version.</u></strong><br/>\n"
+"             <img src=\""
+msgstr ""
+
+#: ../circular-nav.php:237
+msgid "Button color "
+msgstr ""
+
+#: ../circular-nav.php:237
+msgid "<small>Pick a color</small>"
+msgstr ""
+
+#: ../circular-nav.php:240
+msgid "Button color on Hover (mouse) "
+msgstr ""
+
+#: ../circular-nav.php:240
+msgid ""
+"<small>Pick a color when hovering mouse over menu-button. If you do not want "
+"this effect, simply chose same color as button main color above.</small>"
+msgstr ""
+
+#: ../circular-nav.php:253
+msgid "Font and icon color settings"
+msgstr ""
+
+#: ../circular-nav.php:254
+msgid ""
+"Choose colors for icons and texts, both in navigation elements and menu "
+"button"
+msgstr ""
+
+#: ../circular-nav.php:257
+msgid ""
+"<strong>Custom navigation icon color is only available in pro version.</"
+"strong><br/>\n"
+"            Default color is white (#ffffff)\n"
+"            <img src=\""
+msgstr ""
+
+#: ../circular-nav.php:260
+msgid ""
+"<strong>Custom navigation text color is only available in pro version.</"
+"strong><br/>\n"
+"            Default color is white (#ffffff)\n"
+"            <img src=\""
+msgstr ""
+
+#: ../circular-nav.php:266
+msgid ""
+"<strong>Custom menu button contents color is only available in pro version.</"
+"strong><br/>\n"
+"            Default color is white (#ffffff)\n"
+"            <img src=\""
+msgstr ""
+
+#: ../circular-nav.php:281
+msgid "Font and icon/image sizes settings"
+msgstr ""
+
+#: ../circular-nav.php:282
+msgid ""
+"Choose relative size for icons and texts, both in navigation elements and "
+"menu button "
+msgstr ""
+
+#: ../circular-nav.php:283
+msgid ""
+"<strong><u>Important considerations:</u></strong><br/>\n"
+"            <ul>\n"
+"            <li>-> Texts in navigation elements and menu button are using "
+"the main font family of your current theme.</li>\n"
+"            <li>-> Normal text sizes usually fit well for most font families "
+"and 3-6 navigation elements (if you are going to use texts). Try different "
+"sizes if you are having trouble fitting long texts and/or you are using many "
+"navigation elments.</li>\n"
+"            <li>-> Moreover, you can play around with different "
+"configurations that could end in very different display feelings. <br/>\n"
+"                Maybe it is very useful to have huge icon size if you only "
+"have 3 navigations elements, but imaging you have long texts as well so you "
+"will perhaps need to set text size to very small</li>\n"
+"            <li>-> Remember that these are base relative sizes and the "
+"plugin will calculate automatically responsive sizes for 3 screen widths "
+"(smartphones, tablets and laptops, large screens). So try to test in "
+"different devices to check if you are happy with the overall feeling and "
+"fitting.</li>   \n"
+"            <li>-> If you do not want to play with this settings and "
+"everything is fitting quite well, simply leave defaults in normal size and "
+"forget about all these words ;)</li>\n"
+"            </ul>"
+msgstr ""
+
+#: ../circular-nav.php:294 ../circular-nav.php:295 ../circular-nav.php:297
+msgid "Small"
+msgstr ""
+
+#: ../circular-nav.php:294 ../circular-nav.php:295 ../circular-nav.php:297
+msgid "Normal (default)"
+msgstr ""
+
+#: ../circular-nav.php:294 ../circular-nav.php:295 ../circular-nav.php:297
+msgid "Big"
+msgstr ""
+
+#: ../circular-nav.php:294
+msgid "Icon size in navigation elements "
+msgstr ""
+
+#: ../circular-nav.php:294 ../circular-nav.php:295 ../circular-nav.php:297
+msgid "<small>More sizes available in pro version</small>"
+msgstr ""
+
+#: ../circular-nav.php:295
+msgid "Text size in navigation elements "
+msgstr ""
+
+#: ../circular-nav.php:297
+msgid "Text/Icon size inside menu button "
+msgstr ""
+
+#: ../circular-nav.php:311
+msgid "Navigation elements settings"
+msgstr ""
+
+#: ../circular-nav.php:312
+msgid ""
+"Set all navigation elements you want for the menu. Remember that "
+"<strong>there is a <u>maximum of 8 elements</u></strong> and of course at "
+"least there should be 2 elements"
+msgstr ""
+
+#: ../circular-nav.php:314
+msgid ""
+"<strong>Custom uploaded icons or images for each navigation element are only "
+"available in pro version.</strong><br/>\n"
+"            <img src=\""
+msgstr ""
+
+#: ../circular-nav.php:324
+msgid "Item title attribute "
+msgstr ""
+
+#: ../circular-nav.php:324
+msgid "<small>Hover tooltip in non-touching devices</small>"
+msgstr ""
+
+#: ../circular-nav.php:325
+msgid "Icon"
+msgstr ""
+
+#: ../circular-nav.php:325
+msgid "<small>Choose 'none' if you do not want an icon</small>"
+msgstr ""
+
+#: ../circular-nav.php:326
+msgid "Text for link "
+msgstr ""
+
+#: ../circular-nav.php:326
+msgid "<small>Blank if you do not want any text</small>"
+msgstr ""
+
+#: ../circular-nav.php:327
+msgid "Link - URL address? "
+msgstr ""
+
+#: ../circular-nav.php:327
+msgid "must be a valid URL"
+msgstr ""
+
+#: ../circular-nav.php:328
+msgid "or link to a Post?"
+msgstr ""
+
+#: ../circular-nav.php:329
+msgid "or link to a Page?"
+msgstr ""
+
+#: ../circular-nav.php:330
+msgid "Open link in another tab"
+msgstr ""
+
+#: ../circular-nav.php:333
+msgid ""
+"Click + to add an element or click X to delete, click pencil-edit to open-"
+"close each element"
+msgstr ""
+
+#: ../circular-nav.php:333
+msgid "Drag & Drop to sort the items as you need"
+msgstr ""
+
+#: ../circular-nav.php:347
+msgid "Extra Display Settings"
+msgstr ""
+
+#: ../circular-nav.php:348
+msgid "Choose when to display the menu "
+msgstr ""
+
+#: ../circular-nav.php:350
+msgid ""
+"<strong>Show the menu depending on screen size only available in pro "
+"version</strong><br/><br/>\n"
+"            <img src=\""
+msgstr ""
+
+#: ../circular-nav.php:357
+msgid ""
+"<strong><u>Show the menu depending on selected user roles is only available "
+"in pro version.</u></strong>"
+msgstr ""
+
+#: ../circular-nav.php:369
+msgid "Pro version"
+msgstr ""
+
+#: ../circular-nav.php:370
+msgid ""
+"Upgrade to Pro premium version and get all the features and more to come in "
+"future updates"
+msgstr ""
+
+#: ../circular-nav.php:372
+msgid ""
+"<strong>Visit us on:</strong><br/><br/>\n"
+"            <a href=\"http://wordpress-fixed-circular-nav.e-crespo.com/\" "
+"target=\"_blank\">Wordpress Fixed Circular Navigation Menu official site</"
+"a>\n"
+"           "
+msgstr ""
