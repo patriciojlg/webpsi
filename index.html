@@ -4,8 +4,12 @@
         <title></title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale-1, minimun-scale=1"> 
-      <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+     <!-- CSS -->
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
        <link rel="stylesheet" href="css/carusel.css">
+        <link rel="stylesheet" href="css/location.css">
+        <link rel="stylesheet" href="css/fontello.css">
+        <!-- JAVASCRIPT -->
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <link rel="stylesheet" href="/css/style.css">
 <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
@@ -23,6 +27,7 @@ $(document).ready(function() {
     </head>
     <body>
    <header>
+       <div class="icon-user-add" style="float:left; font-size:27px;"></div>
        <h1>Terap</h1>
         </header> 
         <main>
@@ -33,6 +38,24 @@ $(document).ready(function() {
                 <p> Te recomendamos a un experto</p>
                 <a href="#">Ver más</a>
             </div>
+            </section>
+            <section id="location">
+            <div class="container" style="text-align: center;">
+                <h2><strong>¿Cómo llegar?</strong> a la consulta</h2> 
+                </div>   
+                <img src="img/map.png" title="Clic para ver el mapa completo">
+            <div class="container">
+                <div class="adress">
+                    <div class="icon-location"></div><strong>Consultorio privado</strong>
+                <p>Nueva Providencia 2155 Torre A oficina 604, Edificio Panorámico (Providencia - Santiago); a pasos del metro "Los Leones".
+                </p>
+                    </div>
+                <div>
+                <div class="icon-clock"></div><p><strong>Horarios </strong>9am a 21pm.</p>
+                <div class="icon-ok"></div><p><strong>Atiende </strong>Particulares (sin previsión), Banmédica, Colmena Golden Cross, Consalud, Cruz Blanca, Fonasa, Masvida, Cruz del Norte, Optima ISAPRE, y 2 más (Llama para confirmar si tu plan está incluido)</p>
+                    
+                </div>
+                </div>
             </section>
 <section id="booking">
     
@@ -113,7 +136,6 @@ $(document).ready(function() {
     </div>
             </section>
                     </main>
- 
     </body>
 
 </html>

@@ -1,0 +1,40 @@
+#location h2{
+    margin-top: 30px;
+    margin-bottom: 30px; 
+}
+#location p{
+    font-size: 16px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+.icon-clock, .icon-ok, .icon-location{
+    position: relative;
+    bottom: 5px;
+    float: left;
+    font-size: 20px;
+    color: darkcyan;
+    margin-right: 10px;
+}
+#location{
+    background-color: #f2ebeb;
+}
+#location h2{
+    color: darkcyan;
+}
+#location img{
+    border: solid 1px #d0d0d0;
+    margin-left: -40px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+#location img:hover{
+   opacity: 0.5;
+}
+.adress{
+    max-width: 400px;
+    float: left;
+}
+.infobox{
+    
+}
