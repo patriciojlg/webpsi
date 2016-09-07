@@ -1,9 +1,13 @@
-#location h2{
+#location .container h2{ 
+    color: darkcyan;
     margin-top: 30px;
     margin-bottom: 30px; 
 }
 #location p{
     font-size: 16px;
+}
+
+#location strong{
     text-align: justify;
     margin-bottom: 10px;
 }
@@ -15,8 +19,19 @@
     color: darkcyan;
     margin-right: 10px;
 }
+#location .adress{
+    max-width: 40em;
+}
+#location .adress, #location .clocks, #location .med-security {
+    margin: 5px
+}
+#location .clocks, #location .med-security{
+    display: flex;
+    min-width: 30em;
+    max-width: 52em;
+}
 #location{
-    background-color: #f2ebeb;
+    background-color: #f7f7f7;
 }
 #location h2{
     color: darkcyan;
@@ -36,5 +51,14 @@
     float: left;
 }
 .infobox{
+    
+}
+@media screen and (max-width: 768px) {
+    #location .clocks, #location .med-security{
+    display: flex;
+    min-width: 15em;
+        max-width: 52em;
+    }
+}
     
 }
