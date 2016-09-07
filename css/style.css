@@ -1,4 +1,3 @@
-
 *{
     margin: 0;
     padding: 0;
@@ -9,7 +8,6 @@ body{
 }
 p, a {
     font-size: 16px;
-    
 }
 
 h1{
@@ -37,30 +35,8 @@ header{
     background-color: darkcyan;
     color: white;
 }
-
-
-#banner{
-    margin-top:45px;
-    top: 4px;
-    position: relative;
-    margin-bottom: 0px;
-
-    
-}
-#banner img{
-    width: 100%;
-    height: 100%;
-}
-#banner .container{
-    padding: 5px;
-    width: 100%;
-    background-color: rgba(0,0,0,0.3);
-    font-size: 25px;
-    position: absolute;
-    color: white;
-    top 50%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
+header .icon-user-add{
+    padding-left: 40px;
 }
 .container .map{
     position: absolute;
@@ -89,16 +65,3 @@ header{
     background-color: darkcyan;
 }
 
- @media screen and (max-width: 768px) {
-     #banner .container{
-    font-size: 12px;
-}
-     #banner a{
-         width: 75px;
-     }
-     
-   
-}
-#banner .container{
-    transform: translateX(-50%) translateY(-100%);
-}
