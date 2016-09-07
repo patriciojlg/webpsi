@@ -11,6 +11,11 @@
     text-align: justify;
     margin-bottom: 10px;
 }
+#location .adress p img{
+    width: 25px;
+    margin-bottom: 4px;
+
+}
 .icon-clock, .icon-ok, .icon-location{
     position: relative;
     bottom: 5px;
@@ -31,7 +36,7 @@
     max-width: 52em;
 }
 #location{
-    background-color: #f7f7f7;
+    background-color: #f2f2f2;
 }
 #location h2{
     color: darkcyan;
@@ -59,6 +64,10 @@
     min-width: 15em;
         max-width: 52em;
     }
+    #location .container h2{
+    color: darkcyan;
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
-    
 }
+
