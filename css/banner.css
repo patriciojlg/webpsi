@@ -5,7 +5,12 @@
     font-size: 30px
 }
 #banner a{
+    text-align: center;
     font-size: 20px;
+}
+#banner a:hover{
+    background-color: rgba(0,0,0,0.4);
+    box-shadow: 0px 0px 9px white;;
 }
 #banner{
     margin-top:45px;
