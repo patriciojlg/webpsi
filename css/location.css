@@ -7,6 +7,9 @@
     font-size: 16px;
 }
 
+.container .adress{
+    text-align: justify;
+}
 #location strong{
     text-align: justify;
     margin-bottom: 10px;
@@ -24,16 +27,25 @@
     color: darkcyan;
     margin-right: 10px;
 }
-#location .adress{
-    max-width: 40em;
+#location .container .location-left{
+    position: relative
+    box-sizing: content-box;
+    border-right: 1px solid #e6e6e6;
 }
+
 #location .adress, #location .clocks, #location .med-security {
     margin: 5px
 }
+#location .adress{
+    padding-right: 20px;
+    border-right: solid 1px #e6e6e6;
+    max-width: 40em;
+}
 #location .clocks, #location .med-security{
+    text-align: justify;
     display: flex;
-    min-width: 30em;
-    max-width: 52em;
+    min-width: 18em;
+    max-width: 40em;
 }
 #location{
     background-color: #f2f2f2;
@@ -52,13 +64,16 @@
    opacity: 0.5;
 }
 .adress{
-    max-width: 400px;
+    max-width: 330px;
     float: left;
 }
 .infobox{
     
 }
 @media screen and (max-width: 768px) {
+    #location .adress{
+        border: none;
+    }
     #location .clocks, #location .med-security{
     display: flex;
     min-width: 15em;
