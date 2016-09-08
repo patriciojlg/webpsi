@@ -13,7 +13,7 @@
 }
 /* Previous button  */
 #quote-carousel .carousel-control.left {
-	left: -12px;
+	left: -20px;
 }
 /* Next button  */
 #quote-carousel .carousel-control.right {
@@ -40,6 +40,7 @@
 /* End carousel */
 
 .item blockquote {
+
 	border-left: none;
 	margin: 0;
 }
@@ -52,7 +53,12 @@
 	float: left;
 	margin-right: 10px;
 }
-
+#quote-carousel{
+    color: white;
+}
+    #quote-carousel small{
+        color: white;
+    }
 
 /**
   MEDIA QUERIES
@@ -78,6 +84,7 @@
  width: 15px;
  height: 15px;
 }
+
  #quote-carousel .carousel-indicators li.active {
  margin: 0px 5px;
  width: 20px;
