@@ -1,3 +1,7 @@
+.carousel{
+    position: absolute;
+    text-align: left;
+}
 /* carousel */
 #quote-carousel {
 	padding: 0 10px 30px 10px;
@@ -13,7 +17,7 @@
 }
 /* Previous button  */
 #quote-carousel .carousel-control.left {
-	left: -20px;
+	left: -30px;
 }
 /* Next button  */
 #quote-carousel .carousel-control.right {
@@ -40,7 +44,6 @@
 /* End carousel */
 
 .item blockquote {
-
 	border-left: none;
 	margin: 0;
 }
